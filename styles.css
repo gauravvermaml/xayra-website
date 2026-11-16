@@ -14,3 +14,10 @@
   object-fit: contain;
   flex-shrink: 0;
 }
+.inspiration .story{max-width:720px}
+.inspiration .story p{color:#46465b;font-size:1.08rem;margin:0 0 18px}
+.inspiration .story .notice{color:var(--ink);font-weight:600;margin:26px 0}
+.inspiration .science{margin-top:34px;max-width:720px}
+.inspiration .science p{margin:0 0 14px}
+.inspiration .science .source{margin:0;font-size:.92rem}
+.inspiration .limitation{max-width:720px;margin:22px 0 0}
